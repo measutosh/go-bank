@@ -2,3 +2,4 @@
 - setup mux server, handler functions
 - connect main.go to api.go to start the server
 - define the parameters of json in types.go
+- setup interface for storage in storage.go and api.go
