@@ -3,3 +3,8 @@
 - connect main.go to api.go to start the server
 - define the parameters of json in types.go
 - setup interface for storage in storage.go and api.go
+- setup elephantsql cluster in storage.go, api.go
+- implement the storage interface in api.go and start it in main.go
+- setup Init(), CRUD functions in storage.go
+- add a createAccount type in types.go
+- setup handleCreateAccount in api.go to create and fetch an account from database
