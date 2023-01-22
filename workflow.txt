@@ -8,3 +8,4 @@
 - setup Init(), CRUD functions in storage.go
 - add a createAccount type in types.go
 - setup handleCreateAccount in api.go to create and fetch an account from database
+- setup createaccount in storage.go
